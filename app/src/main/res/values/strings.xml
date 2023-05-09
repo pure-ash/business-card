@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="phone_number">+00 (00) 000 000</string>
+    <string name="phone_desc">phone_number</string>
+    <string name="social_media_desc">Social Media</string>
+    <string name="social_media">\@pureash2023</string>
+    <string name="email_desc">Email</string>
+    <string name="email">pureash2023@outlook.com</string>
+    <string name="name">Pure-ash</string>
+    <string name="title">Self-taught Android Developer</string>
+</resources>
